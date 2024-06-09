@@ -40,5 +40,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1241848531547852883?hideStatus=true)](https://discord.com/users/1241848531547852883)
 
 ![Aru's github stats](https://github-readme-stats.vercel.app/api?username=arudev69&show_icons=true&theme=tokyonight)
-[![israel spamer tool](https://github-readme-stats.vercel.app/api/pin/?username=arudev69&repo=phone-spamer-IL-only-&show_owner=true&theme=tokyonight)](https://github.com/arudev69/phone-spamer-IL-only-)
+[![israel spamer tool](https://github-readme-stats.vercel.app/api/pin/?username=arudev69&repo=phone-spamer-IL-only-&show_owner=true&theme=tokyonight)](https://github.com/arudev69/phone-spammer-IL-v2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arudev69&layout=compact&theme=tokyonight)
