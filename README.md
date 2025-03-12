@@ -37,7 +37,7 @@
 
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1241848531547852883?hideStatus=true)](https://discord.com/users/1241848531547852883)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1210317287324651550?hideStatus=true)](https://discord.com/users/1210317287324651550)
 
 ![Aru's github stats](https://github-readme-stats.vercel.app/api?username=arudev69&show_icons=true&theme=tokyonight)
 [![israel spamer tool](https://github-readme-stats.vercel.app/api/pin/?username=arudev69&repo=phone-spamer-IL-only-&show_owner=true&theme=tokyonight)](https://github.com/arudev69/phone-spammer-IL-v2)
