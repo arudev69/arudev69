@@ -3,7 +3,7 @@
 <h3 align="left">Information:</h3>
 
 
-- 📨 My discord: [Aru | YarinPG](https://discord.com/users/1241848531547852883) 
+- 📨 My discord: [Aru | YarinPG](https://discord.com/users/1210317287324651550) 
 
 
 <h3 align="left">Languages and Tools:</h3>
